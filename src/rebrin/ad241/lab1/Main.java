@@ -1,5 +1,15 @@
 package rebrin.ad241.lab2;
 
+/*
+ * @(#)Main.java
+ *
+ * Лабораторна робота №2
+ * Тема: Основи роботи з класами та об'єктами. Інкапсуляція. Конструктор. Модифікатори доступу
+ * @author Ребрин Володимир
+ * @version 1.0 2025/09/27
+ * Група: АД-241
+ */
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("\t---Мій кошик---\n");
